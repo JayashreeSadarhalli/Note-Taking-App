@@ -1,0 +1,15 @@
+
+# API Server
+fastapi
+uvicorn[standard]
+python-socketio
+
+# Database
+motor
+dnspython
+walrus
+boto3
+
+#other
+requests
+python-dateutil
